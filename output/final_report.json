@@ -1,0 +1,56 @@
+{
+    "summary": [
+        "Alters the standard allowance of universal credit for tax years 2026–27 to 2029–30.",
+        "Defines and adjusts the LCWRA (Limited Capability for Work and Work-Related Activity) categories.",
+        "Freezes the LCW and LCWRA elements for multiple tax years instead of annual uprating.",
+        "Introduces CPI-based and uplift-percentage calculations for standard allowance and ESA-related payments.",
+        "Creates protected LCWRA amounts for pre-2026, severe conditions, and terminally ill claimants.",
+        "Provides corresponding provisions for Northern Ireland.",
+        "Updates Universal Credit Regulations 2013 and ESA Regulations to reflect new structures and claimant categories."
+    ],
+    "definitions": "Universal  Credit  Act 2025. 5 Universal  Credit  Act 2025  (c. 22) \nSCHEDULES \nSection  2 SCHEDULE  1 \nAMENDMENTS TO THE UNIVERSAL CREDIT REGULATIONS 2013 IN CONNECTION WITH \nNEW AMOUNTS OF THE LCWRA ELEMENT \n1 The Universal  Credit  Regulations  2013  are amended  as follows. \n2 In regulation  2 (interpretation),  at the appropriate  places  insert— \n““pre-2026  claimant”  has the meaning  in regulation  27A(1);”; \n““severe  conditions  criteria  claimant”  has the meaning  in regulation \n40A(2);”. \n3 In regulation  27 (award  to include  LCWRA  element)— \n(a) in paragraph  (2), at the end i",
+    "obligations": "No matching legislative text found.",
+    "responsibilities": "No matching legislative text found.",
+    "eligibility": "6-27 \n(1) In the table  in regulation  36 of the Universal  Credit  Regulations  2013  (amounts \nof elements)— Universal  Credit  Act 2025  (c. 22) 2 \n(a) before  the row showing  the amount  for limited  capability  for work \nand work-related  activity  (“the  existing  row”)  insert— \n£217.26 ”; “claimant  with  limited  capability  for work  and \nwork-related  activity,  other  than  a pre-2026  claimant, \na severe  conditions  criteria  claimant  or a claimant  who \nis terminally  ill \n(b) in the existing  row,  for “limited  capability  for work  and work-related \nactivity”  substitute  “",
+    "payments": "by the previous  provisions  of this Act. \nShort  title \n7 Short  title \nThis  Act may  be cited  as the Universal  Credit  Act 2025. 5 Universal  Credit  Act 2025  (c. 22) \nSCHEDULES \nSection  2 SCHEDULE  1 \nAMENDMENTS TO THE UNIVERSAL CREDIT REGULATIONS 2013 IN CONNECTION WITH \nNEW AMOUNTS OF THE LCWRA ELEMENT \n1 The Universal  Credit  Regulations  2013  are amended  as follows. \n2 In regulation  2 (interpretation),  at the appropriate  places  insert— \n““pre-2026  claimant”  has the meaning  in regulation  27A(1);”; \n““severe  conditions  criteria  claimant”  has the meaning  in regulation",
+    "penalties": "No matching legislative text found.",
+    "record_keeping": "No matching legislative text found.",
+    "rules_check": [
+        {
+            "rule": "Act must define key terms",
+            "status": "pass",
+            "evidence": "Universal  Credit  Act 2025. 5 Universal  Credit  Act 2025  (c. 22) \nSCHEDULES \nSection  2 SCHEDULE  1 \nAMENDMENTS TO THE UNIVERSAL CREDIT REGULATIONS 2013 IN CONNECTION WITH \nNEW AMOUNTS OF THE LCWRA ELEMENT \n1 The Universal  Credit  Regulations  2013  are amended  as follows. \n2 In regulation  2 (...",
+            "confidence": 90
+        },
+        {
+            "rule": "Act must specify eligibility criteria",
+            "status": "pass",
+            "evidence": "6-27 \n(1) In the table  in regulation  36 of the Universal  Credit  Regulations  2013  (amounts \nof elements)— Universal  Credit  Act 2025  (c. 22) 2 \n(a) before  the row showing  the amount  for limited  capability  for work \nand work-related  activity  (“the  existing  row”)  insert— \n£217.26 ”; “...",
+            "confidence": 90
+        },
+        {
+            "rule": "Act must specify responsibilities of the administering authority",
+            "status": "fail",
+            "evidence": "No matching legislative text found....",
+            "confidence": 60
+        },
+        {
+            "rule": "Act must include enforcement or penalties",
+            "status": "fail",
+            "evidence": "No matching legislative text found....",
+            "confidence": 60
+        },
+        {
+            "rule": "Act must include payment calculation or entitlement structure",
+            "status": "pass",
+            "evidence": "by the previous  provisions  of this Act. \nShort  title \n7 Short  title \nThis  Act may  be cited  as the Universal  Credit  Act 2025. 5 Universal  Credit  Act 2025  (c. 22) \nSCHEDULES \nSection  2 SCHEDULE  1 \nAMENDMENTS TO THE UNIVERSAL CREDIT REGULATIONS 2013 IN CONNECTION WITH \nNEW AMOUNTS OF THE ...",
+            "confidence": 90
+        },
+        {
+            "rule": "Act must include record-keeping or reporting requirements",
+            "status": "fail",
+            "evidence": "No matching legislative text found....",
+            "confidence": 60
+        }
+    ]
+}
